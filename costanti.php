@@ -4,7 +4,9 @@ define('USERNAME', 'eugenio');
 define('PASSWORD', 'genius');
 
 ?>
-<p>questo programma usa database: <?php echo DATABASE?>
+<p>questo programma usa 
+	<br />
+	nomedb: <?php echo DATABASE?>
 	<br />
 	username: <?php echo USERNAME?> 
 	<br />
