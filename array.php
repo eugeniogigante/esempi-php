@@ -7,3 +7,4 @@ array('name'=>'peter','position'=>'clerk','year'=>'1992'),
 <pre>
 	<?php print_r($employees); ?>
 </pre>
+
